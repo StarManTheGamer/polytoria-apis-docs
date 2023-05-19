@@ -1,4 +1,7 @@
 # Polytoria New Website APIs
+
+‼ Polytoria Offical API Documentation is out now https://api.polytoria.com/docs
+
 something undocumented, so it's time to dig down. <img src="https://cdn3.emoji.gg/emojis/3244-trollface.png" height="30">
 
 Notes
